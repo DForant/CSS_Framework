@@ -1,0 +1,13 @@
+*/ Color Variables */
+:root {
+  --primary-color-base: #4c86c6;
+  --primary-color-dark-50: #2e5177;
+  --primary-color-dark-100: #1e364f;
+  --primary-color-light-50: #94b7dd;
+  --primary-color-light-100: #c9dbee;
+
+  --secondary-color-base: #7650a1;
+  --secondary-color-dark-50: #543871;
+  --secondary-color-dark-100: #2f203f;
+  --secondary-color-light-50: #ac96c7;
+  --secondary-color-light-100: #b8c9d8;
