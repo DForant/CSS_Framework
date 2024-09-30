@@ -1,13 +1,33 @@
 */ Color Variables */
 :root {
+  // Primary Color Base: Dodger Blue
   --primary-color-base: #4c86c6;
   --primary-color-dark-50: #2e5177;
   --primary-color-dark-100: #1e364f;
   --primary-color-light-50: #94b7dd;
   --primary-color-light-100: #c9dbee;
 
+  // Secondary Color Base: Blue Violet
   --secondary-color-base: #7650a1;
   --secondary-color-dark-50: #543871;
   --secondary-color-dark-100: #2f203f;
   --secondary-color-light-50: #ac96c7;
   --secondary-color-light-100: #b8c9d8;
+
+  // Alt Color Base: Light Goldenrod Yellow
+  --alt-color-base: #f9f8d4;
+  --alt-color-dark-50: #aeae95;
+  --alt-color-dark-100: #646356;
+  --alt-color-light-50: #fafae6;
+  --alt-color-light-100: #fefdf3;
+
+  // Black & White
+  --color-black: #303030;
+  --color-white: #f9f9fa;
+
+  // Greys
+  --color-grey-10: #e3e2e8;
+  --color-grey-25: #c2c2c1;
+  --color-grey-50: #919191;
+  --color-grey-75: #616261;
+  --color-grey-100: #2e2d30;
