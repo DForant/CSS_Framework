@@ -1,4 +1,3 @@
-*/ Color Variables */
 :root {
   // Primary Color Base: Dodger Blue
   --primary-color-dark-100: #1e364f;
@@ -33,3 +32,5 @@
   --color-grey-50: #919191;
   --color-grey-75: #616261;
   --color-grey-100: #2e2d30;
+  
+}
